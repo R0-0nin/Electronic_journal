@@ -1,0 +1,19 @@
+#pupil{
+
+
+    width: 25px
+
+}
+
+#teacher{
+
+    width: 25px;
+    height: 25px;
+
+}
+
+
+
+option:first-child{
+    color: gray;
+}
